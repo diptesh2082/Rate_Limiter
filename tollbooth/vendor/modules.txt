@@ -1,0 +1,12 @@
+# github.com/didip/tollbooth v4.0.2+incompatible
+## explicit
+github.com/didip/tollbooth
+github.com/didip/tollbooth/errors
+github.com/didip/tollbooth/libstring
+github.com/didip/tollbooth/limiter
+# github.com/patrickmn/go-cache v2.1.0+incompatible
+## explicit
+github.com/patrickmn/go-cache
+# golang.org/x/time v0.8.0
+## explicit; go 1.18
+golang.org/x/time/rate
